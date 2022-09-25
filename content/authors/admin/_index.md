@@ -71,8 +71,8 @@ email: 'vaibhap1@uci.edu'
 highlight_name: true
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I am a research scientist working in the Personalized modeling team at Clearsense LLC. I obtained my Ph.D. in Computer Science from the University of California Irvine, working with Dr. Ramesh Jain at Social Life Networks Lab, and did my bachelor's in Computer Science at the Indian Institute of Technology Kharagpur. 
+During my tenure as a graduate student, I have published my research findings at internationally acclaimed venues and journals such as Nature, ACM Multimedia, ACM RecSys, and International Conference on Multimedia Retrieval. My research is focused on developing systems and algorithms that leverage user-generated data (e.g. from wearable devices and smartphones) to understand their health and lifestyle.
+I also have three years of professional experience in predictive modeling and data science projects in Health insurance, Retail chain, and credit risk analysis domains.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
