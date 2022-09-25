@@ -25,8 +25,8 @@ content:
       captcha: true
 
   # Contact details (edit or remove options as required)
-  email: vaibhap1@uci.edu
-  phone: 888 888 88 88
+  email: vaibhap1 (at) uci.edu
+  # phone: 888 888 88 88
   # address:
   #  street: 450 Serra Mall
   #  city: Stanford
@@ -46,7 +46,11 @@ content:
     - icon: twitter
       icon_pack: fab
       name: DM Me
-      link: 'https://twitter.com/Twitter'
+      link: 'https://twitter.com/vbhvp'
+    - icon: linkedin
+      icon_pack: fab
+      name: Connect with me
+      link: 'https://www.linkedin.com/in/vaibhav-pandey-7776b951/'
 #    - icon: video
 #      icon_pack: fas
 #      name: Zoom Me
