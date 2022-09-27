@@ -24,6 +24,10 @@ feature:
     icon: js
     icon_pack: fab
     name: Javascript
+  - description: 70%
+    icon: html5
+    icon_pack: fab
+    name: HTML
   - description: 90%
     icon: r-project
     icon_pack: fab
