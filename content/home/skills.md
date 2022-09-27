@@ -30,7 +30,7 @@ feature:
     name: HTML
   - description: 85%
     icon: database
-    icon_pack: fab
+    icon_pack: fas
     name: SQL
   - description: 90%
     icon: r-project
