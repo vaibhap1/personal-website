@@ -20,6 +20,10 @@ feature:
     icon: python
     icon_pack: fab
     name: Python
+  - description: 80%
+    icon: javascript
+    icon_pack: fab
+    name: Javascript
   - description: 90%
     icon: r-project
     icon_pack: fab
