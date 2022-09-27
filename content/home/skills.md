@@ -21,7 +21,7 @@ feature:
     icon_pack: fab
     name: Python
   - description: 80%
-    icon: javascript
+    icon: square-js
     icon_pack: fab
     name: Javascript
   - description: 90%
