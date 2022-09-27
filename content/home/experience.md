@@ -22,12 +22,21 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Scientist (Personalized modeling)
+    company: Clearsense LLC
+    company_url: 'clearsense.com'
+    location: San Jose, California
+    date_start: '2021-11-16'
+    date_end: ''
+    description: |2-
+        Responsibilities include:
+        
   - title: Graduate Student Researcher
     company: UC Irvine
     company_url: ''
     location: California
     date_start: '2019-04-16'
-    date_end: ''
+    date_end: '2021-09-10'
     description: |2-
         Responsibilities include:
         
