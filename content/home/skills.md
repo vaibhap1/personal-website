@@ -22,7 +22,7 @@ feature:
     name: Python
   - description: 80%
     icon: square-js
-    icon_pack: fab
+    icon_pack: fa-brands
     name: Javascript
   - description: 90%
     icon: r-project
