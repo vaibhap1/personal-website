@@ -28,6 +28,10 @@ feature:
     icon: html5
     icon_pack: fab
     name: HTML
+  - description: 85%
+    icon: database
+    icon_pack: fab
+    name: SQL
   - description: 90%
     icon: r-project
     icon_pack: fab
