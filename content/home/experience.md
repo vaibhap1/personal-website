@@ -30,6 +30,10 @@ experience:
     date_end: ''
     description: |2-
         Responsibilities include:
+        * System architercture design for scalable personal health data collection from wearable devices and smart phone
+        * Leading a team of developers for building a personal health data collection framework (Personicle).
+        * Front end dashboard for personal health data analysis.
+        * Data analysis and machine learning pipelines for deriving actionable insights from personal health and lifestyle data.
         
   - title: Graduate Student Researcher
     company: UC Irvine
