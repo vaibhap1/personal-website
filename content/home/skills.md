@@ -24,10 +24,14 @@ feature:
     icon: js
     icon_pack: fab
     name: Javascript
-  - description: 70%
+  - description: 80%
     icon: html5
     icon_pack: fab
     name: HTML
+  - description: 85%
+    icon: react
+    icon_pack: fab
+    name: React
   - description: 85%
     icon: database
     icon_pack: fas
